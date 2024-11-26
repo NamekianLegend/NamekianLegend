@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NamekianLegend
+- 👋 Hi, I’m Josh, but you can call me @NamekianLegend !
 - 👀 I’m interested in **Game Development**, **Anything and everything Programming**
 - 🌱 I’m currently learning the basics of IT Programming. I am a first year student at NSCC eCampus!
 - 💞️ I’m looking to collaborate on ...
