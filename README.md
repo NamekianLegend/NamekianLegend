@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh Leslie, but you can call me @NamekianLegend !
-- 👀 I’m interested in **Game Development**, **Anything and everything Programming**
+- 👀 I’m interested in **Game Development**, **learning more about programming**, and **SPACE**!!
 - 🌱 I’m currently learning the basics of IT Programming. I am a first year student at NSCC eCampus!
 - 📫 How to reach me: You can reach me through my [email](mailto:lesliedkjoshua@gmail.com) for now!
 - 😄 Pronouns: **He/Him**
